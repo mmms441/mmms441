@@ -1,0 +1,3 @@
+- 👋 Hi, I’m mamdouh m shapan
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning it
